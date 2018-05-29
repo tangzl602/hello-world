@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi,
+I'm glad to be here，good good study,day day up~
